@@ -1,0 +1,3 @@
+[submodule "new-paid-ui"]
+	path = new-paid-ui
+	url = https://github.com/happyBakliwal/new-paid-ui/
