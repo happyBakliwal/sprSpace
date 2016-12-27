@@ -1,0 +1,3 @@
+[submodule "paid"]
+	path = paid
+	url = https://github.com/happyBakliwal/paid
